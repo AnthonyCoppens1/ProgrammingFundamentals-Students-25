@@ -35,7 +35,11 @@ namespace HelloWorld
 
             //option 3
             string y = "HELP";
-            Console.WriteLine("Hello {0} {1}!", name, y);
+            //prints Hello name
+            Console.WriteLine("Hello {0}", name);
+
+            //prints Hello name, HELP and the text saved under x
+            Console.WriteLine("Hello {0} {1} {2}!", name, y, x);
 
         }
     }
