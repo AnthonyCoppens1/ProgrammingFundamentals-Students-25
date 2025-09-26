@@ -49,7 +49,7 @@ namespace Variabelen
             Console.WriteLine($"x-- heeft als resultaat: {x--}");
             Console.WriteLine($"--x heeft als resultaat: {--x}");
 
-            //wiskundige operatoren
+            //rekenkundige operatoren
             Console.WriteLine($"{x} + {y} = {x + y}");//13
             Console.WriteLine($"{x} - {y} = {x - y}");//-3
             Console.WriteLine($"{x} * {y} = {x * y}");//40
@@ -73,7 +73,49 @@ namespace Variabelen
             int resultaatNaDeling = 10 / 3;
             Console.WriteLine($"10 % 3 = {10 - (resultaatNaDeling * 3)}");
 
-            
+            //vergelijkingsoperatoren --> comparisson operators
+            //x = 5 en y = 10 --> < > <= >= == !=
+            x = 3;
+            y = 3;
+            double z = 3.0;
+            Console.WriteLine($"x = {x} en y = {y}");
+            Console.WriteLine($"x < y --> {x < y}");
+            Console.WriteLine($"x > y --> {x > y}");
+            Console.WriteLine($"x <= y --> {x <= y}");
+            Console.WriteLine($"x >= y --> {x >= y}");
+
+            Console.WriteLine($"z == y --> {z == y}"); //--> check double vs int van zelfde getal
+            Console.WriteLine($"x != y --> {x != y}");
+
+            //VREEMDE DINGEN
+            Console.WriteLine(5 + 5); //10
+            Console.WriteLine("5" + 5); //55
+            Console.WriteLine('5' + 5); //58 --> ascii van 5 is 53
+            Console.WriteLine('a' + 5); //102 --> ascii value van letter
+            Console.WriteLine('a' + 'b' + 'c'); //294 --> 97 + 98 + 99
+            Console.WriteLine("" + 5 + 5); //55
+            Console.WriteLine("" + (5 + 5)); //10
+
+
+            //Characters in een string
+            naam = "Romeo";
+            char eersteCharacter = naam[0];
+            Console.WriteLine($"Eerste character van {naam} is {eersteCharacter}");
+
+            eersteCharacter = naam.ElementAt(0);
+            Console.WriteLine($"Eerste character van {naam} is {eersteCharacter}");
+
+            char laatsteCharacter = naam[4];
+            Console.WriteLine($"Laatste char van {naam} is {laatsteCharacter}");
+
+            laatsteCharacter = naam[naam.Length - 1];
+            Console.WriteLine($"Laatste char van {naam} is {laatsteCharacter}");
+
+            laatsteCharacter = naam.ElementAt(^1);
+            Console.WriteLine(laatsteCharacter);
+
+            laatsteCharacter = naam[^1];
+            Console.WriteLine(laatsteCharacter);
         }
     }
 }
