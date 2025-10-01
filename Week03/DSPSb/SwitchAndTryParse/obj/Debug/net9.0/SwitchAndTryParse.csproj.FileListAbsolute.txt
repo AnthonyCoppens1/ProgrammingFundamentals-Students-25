@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week03\DSPSb\SwitchAndTryParse\bin\Debug\net9.0\SwitchAndTryParse.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week03\DSPSb\SwitchAndTryParse\bin\Debug\net9.0\SwitchAndTryParse.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week03\DSPSb\SwitchAndTryParse\bin\Debug\net9.0\SwitchAndTryParse.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week03\DSPSb\SwitchAndTryParse\bin\Debug\net9.0\SwitchAndTryParse.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week03\DSPSb\SwitchAndTryParse\bin\Debug\net9.0\SwitchAndTryParse.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week03\DSPSb\SwitchAndTryParse\obj\Debug\net9.0\SwitchAndTryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week03\DSPSb\SwitchAndTryParse\obj\Debug\net9.0\SwitchAndTryParse.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week03\DSPSb\SwitchAndTryParse\obj\Debug\net9.0\SwitchAndTryParse.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week03\DSPSb\SwitchAndTryParse\obj\Debug\net9.0\SwitchAndTryParse.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week03\DSPSb\SwitchAndTryParse\obj\Debug\net9.0\SwitchAndTryParse.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week03\DSPSb\SwitchAndTryParse\obj\Debug\net9.0\SwitchAndTryParse.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week03\DSPSb\SwitchAndTryParse\obj\Debug\net9.0\refint\SwitchAndTryParse.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week03\DSPSb\SwitchAndTryParse\obj\Debug\net9.0\SwitchAndTryParse.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week03\DSPSb\SwitchAndTryParse\obj\Debug\net9.0\SwitchAndTryParse.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week03\DSPSb\SwitchAndTryParse\obj\Debug\net9.0\ref\SwitchAndTryParse.dll
