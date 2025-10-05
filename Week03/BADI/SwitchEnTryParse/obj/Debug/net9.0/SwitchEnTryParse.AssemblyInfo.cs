@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwitchEnTryParse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c0f2611442d3d36afead20a595451b1b6858f19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63fe70b78f2c4796bb096c09340a86efbd020929")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwitchEnTryParse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwitchEnTryParse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
