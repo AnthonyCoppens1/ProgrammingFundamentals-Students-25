@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesSchrijven\bin\Debug\net9.0\FilesSchrijven.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesSchrijven\bin\Debug\net9.0\FilesSchrijven.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesSchrijven\bin\Debug\net9.0\FilesSchrijven.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesSchrijven\bin\Debug\net9.0\FilesSchrijven.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesSchrijven\bin\Debug\net9.0\FilesSchrijven.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesSchrijven\obj\Debug\net9.0\FilesSchrijven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesSchrijven\obj\Debug\net9.0\FilesSchrijven.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesSchrijven\obj\Debug\net9.0\FilesSchrijven.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesSchrijven\obj\Debug\net9.0\FilesSchrijven.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesSchrijven\obj\Debug\net9.0\FilesSchrijven.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesSchrijven\obj\Debug\net9.0\FilesSchrijven.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesSchrijven\obj\Debug\net9.0\refint\FilesSchrijven.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesSchrijven\obj\Debug\net9.0\FilesSchrijven.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesSchrijven\obj\Debug\net9.0\FilesSchrijven.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesSchrijven\obj\Debug\net9.0\ref\FilesSchrijven.dll

@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesIO\bin\Debug\net9.0\FilesIO.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesIO\bin\Debug\net9.0\FilesIO.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesIO\bin\Debug\net9.0\FilesIO.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesIO\bin\Debug\net9.0\FilesIO.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesIO\bin\Debug\net9.0\FilesIO.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesIO\obj\Debug\net9.0\FilesIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesIO\obj\Debug\net9.0\FilesIO.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesIO\obj\Debug\net9.0\FilesIO.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesIO\obj\Debug\net9.0\FilesIO.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesIO\obj\Debug\net9.0\FilesIO.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesIO\obj\Debug\net9.0\FilesIO.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesIO\obj\Debug\net9.0\refint\FilesIO.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesIO\obj\Debug\net9.0\FilesIO.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesIO\obj\Debug\net9.0\FilesIO.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesIO\obj\Debug\net9.0\ref\FilesIO.dll

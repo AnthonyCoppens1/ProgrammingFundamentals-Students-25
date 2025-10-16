@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\RapunzelSearch\bin\Debug\net9.0\RapunzelSearch.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\RapunzelSearch\bin\Debug\net9.0\RapunzelSearch.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\RapunzelSearch\bin\Debug\net9.0\RapunzelSearch.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\RapunzelSearch\bin\Debug\net9.0\RapunzelSearch.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\RapunzelSearch\bin\Debug\net9.0\RapunzelSearch.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\RapunzelSearch\obj\Debug\net9.0\RapunzelSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\RapunzelSearch\obj\Debug\net9.0\RapunzelSearch.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\RapunzelSearch\obj\Debug\net9.0\RapunzelSearch.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\RapunzelSearch\obj\Debug\net9.0\RapunzelSearch.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\RapunzelSearch\obj\Debug\net9.0\RapunzelSearch.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\RapunzelSearch\obj\Debug\net9.0\RapunzelSearch.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\RapunzelSearch\obj\Debug\net9.0\refint\RapunzelSearch.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\RapunzelSearch\obj\Debug\net9.0\RapunzelSearch.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\RapunzelSearch\obj\Debug\net9.0\RapunzelSearch.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\RapunzelSearch\obj\Debug\net9.0\ref\RapunzelSearch.dll

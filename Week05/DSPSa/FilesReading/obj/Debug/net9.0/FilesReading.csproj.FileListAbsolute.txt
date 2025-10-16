@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesReading\bin\Debug\net9.0\FilesReading.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesReading\bin\Debug\net9.0\FilesReading.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesReading\bin\Debug\net9.0\FilesReading.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesReading\bin\Debug\net9.0\FilesReading.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesReading\bin\Debug\net9.0\FilesReading.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesReading\obj\Debug\net9.0\FilesReading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesReading\obj\Debug\net9.0\FilesReading.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesReading\obj\Debug\net9.0\FilesReading.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesReading\obj\Debug\net9.0\FilesReading.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesReading\obj\Debug\net9.0\FilesReading.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesReading\obj\Debug\net9.0\FilesReading.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesReading\obj\Debug\net9.0\refint\FilesReading.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesReading\obj\Debug\net9.0\FilesReading.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesReading\obj\Debug\net9.0\FilesReading.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSa\FilesReading\obj\Debug\net9.0\ref\FilesReading.dll

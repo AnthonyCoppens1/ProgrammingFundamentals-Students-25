@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\FilesWriting\bin\Debug\net9.0\FilesWriting.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\FilesWriting\bin\Debug\net9.0\FilesWriting.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\FilesWriting\bin\Debug\net9.0\FilesWriting.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\FilesWriting\bin\Debug\net9.0\FilesWriting.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\FilesWriting\bin\Debug\net9.0\FilesWriting.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\FilesWriting\obj\Debug\net9.0\FilesWriting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\FilesWriting\obj\Debug\net9.0\FilesWriting.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\FilesWriting\obj\Debug\net9.0\FilesWriting.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\FilesWriting\obj\Debug\net9.0\FilesWriting.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\FilesWriting\obj\Debug\net9.0\FilesWriting.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\FilesWriting\obj\Debug\net9.0\FilesWriting.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\FilesWriting\obj\Debug\net9.0\refint\FilesWriting.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\FilesWriting\obj\Debug\net9.0\FilesWriting.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\FilesWriting\obj\Debug\net9.0\FilesWriting.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\DSPSb\FilesWriting\obj\Debug\net9.0\ref\FilesWriting.dll
