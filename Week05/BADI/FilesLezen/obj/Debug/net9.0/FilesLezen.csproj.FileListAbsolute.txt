@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesLezen\bin\Debug\net9.0\FilesLezen.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesLezen\bin\Debug\net9.0\FilesLezen.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesLezen\bin\Debug\net9.0\FilesLezen.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesLezen\bin\Debug\net9.0\FilesLezen.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesLezen\bin\Debug\net9.0\FilesLezen.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesLezen\obj\Debug\net9.0\FilesLezen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesLezen\obj\Debug\net9.0\FilesLezen.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesLezen\obj\Debug\net9.0\FilesLezen.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesLezen\obj\Debug\net9.0\FilesLezen.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesLezen\obj\Debug\net9.0\FilesLezen.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesLezen\obj\Debug\net9.0\FilesLezen.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesLezen\obj\Debug\net9.0\refint\FilesLezen.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesLezen\obj\Debug\net9.0\FilesLezen.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesLezen\obj\Debug\net9.0\FilesLezen.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week05\BADI\FilesLezen\obj\Debug\net9.0\ref\FilesLezen.dll

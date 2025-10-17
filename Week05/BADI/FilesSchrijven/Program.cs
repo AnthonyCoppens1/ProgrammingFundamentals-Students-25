@@ -50,6 +50,10 @@ namespace FilesSchrijven
             {
                 File.Delete(pad);
             }
+
+            
+
+
         }
     }
 }
