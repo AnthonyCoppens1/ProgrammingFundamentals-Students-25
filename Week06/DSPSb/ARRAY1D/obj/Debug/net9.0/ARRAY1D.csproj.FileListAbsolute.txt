@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY1D\bin\Debug\net9.0\ARRAY1D.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY1D\bin\Debug\net9.0\ARRAY1D.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY1D\bin\Debug\net9.0\ARRAY1D.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY1D\bin\Debug\net9.0\ARRAY1D.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY1D\bin\Debug\net9.0\ARRAY1D.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY1D\obj\Debug\net9.0\ARRAY1D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY1D\obj\Debug\net9.0\ARRAY1D.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY1D\obj\Debug\net9.0\ARRAY1D.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY1D\obj\Debug\net9.0\ARRAY1D.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY1D\obj\Debug\net9.0\ARRAY1D.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY1D\obj\Debug\net9.0\ARRAY1D.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY1D\obj\Debug\net9.0\refint\ARRAY1D.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY1D\obj\Debug\net9.0\ARRAY1D.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY1D\obj\Debug\net9.0\ARRAY1D.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY1D\obj\Debug\net9.0\ref\ARRAY1D.dll

@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HarryPotterTxt", "HarryPotterTxt.csproj", "{B736D6B6-79B6-864A-EF19-E4F929903368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B736D6B6-79B6-864A-EF19-E4F929903368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B736D6B6-79B6-864A-EF19-E4F929903368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B736D6B6-79B6-864A-EF19-E4F929903368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B736D6B6-79B6-864A-EF19-E4F929903368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09B0DC6E-9912-4A45-BF9D-C40F80B70DE7}
+	EndGlobalSection
+EndGlobal

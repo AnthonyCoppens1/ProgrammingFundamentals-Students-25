@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\Array1D-tech\bin\Debug\net9.0\Array1D-tech.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\Array1D-tech\bin\Debug\net9.0\Array1D-tech.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\Array1D-tech\bin\Debug\net9.0\Array1D-tech.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\Array1D-tech\bin\Debug\net9.0\Array1D-tech.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\Array1D-tech\bin\Debug\net9.0\Array1D-tech.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\Array1D-tech\obj\Debug\net9.0\Array1D-tech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\Array1D-tech\obj\Debug\net9.0\Array1D-tech.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\Array1D-tech\obj\Debug\net9.0\Array1D-tech.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\Array1D-tech\obj\Debug\net9.0\Array1D-tech.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\Array1D-tech\obj\Debug\net9.0\Array1D-tech.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\Array1D-tech\obj\Debug\net9.0\Array1D-tech.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\Array1D-tech\obj\Debug\net9.0\refint\Array1D-tech.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\Array1D-tech\obj\Debug\net9.0\Array1D-tech.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\Array1D-tech\obj\Debug\net9.0\Array1D-tech.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\Array1D-tech\obj\Debug\net9.0\ref\Array1D-tech.dll

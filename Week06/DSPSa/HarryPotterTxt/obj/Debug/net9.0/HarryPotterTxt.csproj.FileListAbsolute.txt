@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryPotterTxt\bin\Debug\net9.0\HarryPotterTxt.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryPotterTxt\bin\Debug\net9.0\HarryPotterTxt.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryPotterTxt\bin\Debug\net9.0\HarryPotterTxt.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryPotterTxt\bin\Debug\net9.0\HarryPotterTxt.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryPotterTxt\bin\Debug\net9.0\HarryPotterTxt.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryPotterTxt\obj\Debug\net9.0\HarryPotterTxt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryPotterTxt\obj\Debug\net9.0\HarryPotterTxt.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryPotterTxt\obj\Debug\net9.0\HarryPotterTxt.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryPotterTxt\obj\Debug\net9.0\HarryPotterTxt.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryPotterTxt\obj\Debug\net9.0\HarryPotterTxt.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryPotterTxt\obj\Debug\net9.0\HarryPotterTxt.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryPotterTxt\obj\Debug\net9.0\refint\HarryPotterTxt.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryPotterTxt\obj\Debug\net9.0\HarryPotterTxt.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryPotterTxt\obj\Debug\net9.0\HarryPotterTxt.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryPotterTxt\obj\Debug\net9.0\ref\HarryPotterTxt.dll

@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryCSV\bin\Debug\net9.0\HarryCSV.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryCSV\bin\Debug\net9.0\HarryCSV.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryCSV\bin\Debug\net9.0\HarryCSV.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryCSV\bin\Debug\net9.0\HarryCSV.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryCSV\bin\Debug\net9.0\HarryCSV.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryCSV\obj\Debug\net9.0\HarryCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryCSV\obj\Debug\net9.0\HarryCSV.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryCSV\obj\Debug\net9.0\HarryCSV.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryCSV\obj\Debug\net9.0\HarryCSV.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryCSV\obj\Debug\net9.0\HarryCSV.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryCSV\obj\Debug\net9.0\HarryCSV.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryCSV\obj\Debug\net9.0\refint\HarryCSV.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryCSV\obj\Debug\net9.0\HarryCSV.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryCSV\obj\Debug\net9.0\HarryCSV.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSa\HarryCSV\obj\Debug\net9.0\ref\HarryCSV.dll

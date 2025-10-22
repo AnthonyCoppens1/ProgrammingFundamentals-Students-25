@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY2D\bin\Debug\net9.0\ARRAY2D.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY2D\bin\Debug\net9.0\ARRAY2D.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY2D\bin\Debug\net9.0\ARRAY2D.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY2D\bin\Debug\net9.0\ARRAY2D.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY2D\bin\Debug\net9.0\ARRAY2D.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY2D\obj\Debug\net9.0\ARRAY2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY2D\obj\Debug\net9.0\ARRAY2D.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY2D\obj\Debug\net9.0\ARRAY2D.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY2D\obj\Debug\net9.0\ARRAY2D.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY2D\obj\Debug\net9.0\ARRAY2D.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY2D\obj\Debug\net9.0\ARRAY2D.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY2D\obj\Debug\net9.0\refint\ARRAY2D.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY2D\obj\Debug\net9.0\ARRAY2D.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY2D\obj\Debug\net9.0\ARRAY2D.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week06\DSPSb\ARRAY2D\obj\Debug\net9.0\ref\ARRAY2D.dll
