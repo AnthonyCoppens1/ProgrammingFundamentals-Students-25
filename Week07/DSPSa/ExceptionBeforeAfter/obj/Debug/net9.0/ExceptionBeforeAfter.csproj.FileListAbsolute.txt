@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ExceptionBeforeAfter\bin\Debug\net9.0\ExceptionBeforeAfter.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ExceptionBeforeAfter\bin\Debug\net9.0\ExceptionBeforeAfter.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ExceptionBeforeAfter\bin\Debug\net9.0\ExceptionBeforeAfter.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ExceptionBeforeAfter\bin\Debug\net9.0\ExceptionBeforeAfter.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ExceptionBeforeAfter\bin\Debug\net9.0\ExceptionBeforeAfter.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ExceptionBeforeAfter\obj\Debug\net9.0\ExceptionBeforeAfter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ExceptionBeforeAfter\obj\Debug\net9.0\ExceptionBeforeAfter.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ExceptionBeforeAfter\obj\Debug\net9.0\ExceptionBeforeAfter.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ExceptionBeforeAfter\obj\Debug\net9.0\ExceptionBeforeAfter.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ExceptionBeforeAfter\obj\Debug\net9.0\ExceptionBeforeAfter.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ExceptionBeforeAfter\obj\Debug\net9.0\ExceptionBeforeAfter.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ExceptionBeforeAfter\obj\Debug\net9.0\refint\ExceptionBeforeAfter.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ExceptionBeforeAfter\obj\Debug\net9.0\ExceptionBeforeAfter.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ExceptionBeforeAfter\obj\Debug\net9.0\ExceptionBeforeAfter.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ExceptionBeforeAfter\obj\Debug\net9.0\ref\ExceptionBeforeAfter.dll

@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSb\ArrayExercises\bin\Debug\net9.0\ArrayExercises.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSb\ArrayExercises\bin\Debug\net9.0\ArrayExercises.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSb\ArrayExercises\bin\Debug\net9.0\ArrayExercises.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSb\ArrayExercises\bin\Debug\net9.0\ArrayExercises.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSb\ArrayExercises\bin\Debug\net9.0\ArrayExercises.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSb\ArrayExercises\obj\Debug\net9.0\ArrayExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSb\ArrayExercises\obj\Debug\net9.0\ArrayExercises.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSb\ArrayExercises\obj\Debug\net9.0\ArrayExercises.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSb\ArrayExercises\obj\Debug\net9.0\ArrayExercises.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSb\ArrayExercises\obj\Debug\net9.0\ArrayExercises.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSb\ArrayExercises\obj\Debug\net9.0\ArrayExercises.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSb\ArrayExercises\obj\Debug\net9.0\refint\ArrayExercises.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSb\ArrayExercises\obj\Debug\net9.0\ArrayExercises.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSb\ArrayExercises\obj\Debug\net9.0\ArrayExercises.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSb\ArrayExercises\obj\Debug\net9.0\ref\ArrayExercises.dll

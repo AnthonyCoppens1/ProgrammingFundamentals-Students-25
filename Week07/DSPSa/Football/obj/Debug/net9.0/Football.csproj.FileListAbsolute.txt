@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\Football\bin\Debug\net9.0\Football.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\Football\bin\Debug\net9.0\Football.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\Football\bin\Debug\net9.0\Football.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\Football\bin\Debug\net9.0\Football.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\Football\bin\Debug\net9.0\Football.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\Football\obj\Debug\net9.0\Football.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\Football\obj\Debug\net9.0\Football.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\Football\obj\Debug\net9.0\Football.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\Football\obj\Debug\net9.0\Football.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\Football\obj\Debug\net9.0\Football.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\Football\obj\Debug\net9.0\Football.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\Football\obj\Debug\net9.0\refint\Football.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\Football\obj\Debug\net9.0\Football.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\Football\obj\Debug\net9.0\Football.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\Football\obj\Debug\net9.0\ref\Football.dll

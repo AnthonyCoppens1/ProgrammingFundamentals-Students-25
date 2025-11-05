@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ReportCard\bin\Debug\net9.0\ReportCard.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ReportCard\bin\Debug\net9.0\ReportCard.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ReportCard\bin\Debug\net9.0\ReportCard.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ReportCard\bin\Debug\net9.0\ReportCard.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ReportCard\bin\Debug\net9.0\ReportCard.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ReportCard\obj\Debug\net9.0\ReportCard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ReportCard\obj\Debug\net9.0\ReportCard.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ReportCard\obj\Debug\net9.0\ReportCard.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ReportCard\obj\Debug\net9.0\ReportCard.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ReportCard\obj\Debug\net9.0\ReportCard.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ReportCard\obj\Debug\net9.0\ReportCard.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ReportCard\obj\Debug\net9.0\refint\ReportCard.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ReportCard\obj\Debug\net9.0\ReportCard.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ReportCard\obj\Debug\net9.0\ReportCard.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week07\DSPSa\ReportCard\obj\Debug\net9.0\ref\ReportCard.dll
