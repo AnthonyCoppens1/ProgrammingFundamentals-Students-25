@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week08\BADI\Lists\bin\Debug\net9.0\Lists.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week08\BADI\Lists\bin\Debug\net9.0\Lists.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week08\BADI\Lists\bin\Debug\net9.0\Lists.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week08\BADI\Lists\bin\Debug\net9.0\Lists.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week08\BADI\Lists\bin\Debug\net9.0\Lists.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week08\BADI\Lists\obj\Debug\net9.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week08\BADI\Lists\obj\Debug\net9.0\Lists.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week08\BADI\Lists\obj\Debug\net9.0\Lists.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week08\BADI\Lists\obj\Debug\net9.0\Lists.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week08\BADI\Lists\obj\Debug\net9.0\Lists.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week08\BADI\Lists\obj\Debug\net9.0\Lists.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week08\BADI\Lists\obj\Debug\net9.0\refint\Lists.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week08\BADI\Lists\obj\Debug\net9.0\Lists.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week08\BADI\Lists\obj\Debug\net9.0\Lists.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week08\BADI\Lists\obj\Debug\net9.0\ref\Lists.dll
