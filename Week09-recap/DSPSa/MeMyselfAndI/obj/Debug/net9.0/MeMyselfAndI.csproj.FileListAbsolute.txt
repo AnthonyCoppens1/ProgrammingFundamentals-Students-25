@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\DSPSa\MeMyselfAndI\bin\Debug\net9.0\MeMyselfAndI.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\DSPSa\MeMyselfAndI\bin\Debug\net9.0\MeMyselfAndI.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\DSPSa\MeMyselfAndI\bin\Debug\net9.0\MeMyselfAndI.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\DSPSa\MeMyselfAndI\bin\Debug\net9.0\MeMyselfAndI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\DSPSa\MeMyselfAndI\bin\Debug\net9.0\MeMyselfAndI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\DSPSa\MeMyselfAndI\obj\Debug\net9.0\MeMyselfAndI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\DSPSa\MeMyselfAndI\obj\Debug\net9.0\MeMyselfAndI.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\DSPSa\MeMyselfAndI\obj\Debug\net9.0\MeMyselfAndI.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\DSPSa\MeMyselfAndI\obj\Debug\net9.0\MeMyselfAndI.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\DSPSa\MeMyselfAndI\obj\Debug\net9.0\MeMyselfAndI.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\DSPSa\MeMyselfAndI\obj\Debug\net9.0\MeMyselfAndI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\DSPSa\MeMyselfAndI\obj\Debug\net9.0\refint\MeMyselfAndI.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\DSPSa\MeMyselfAndI\obj\Debug\net9.0\MeMyselfAndI.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\DSPSa\MeMyselfAndI\obj\Debug\net9.0\MeMyselfAndI.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\DSPSa\MeMyselfAndI\obj\Debug\net9.0\ref\MeMyselfAndI.dll

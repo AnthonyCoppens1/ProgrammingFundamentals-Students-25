@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week09-recap\DSPSb\Duplicates\bin\Debug\net9.0\Duplicates.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week09-recap\DSPSb\Duplicates\bin\Debug\net9.0\Duplicates.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week09-recap\DSPSb\Duplicates\bin\Debug\net9.0\Duplicates.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week09-recap\DSPSb\Duplicates\bin\Debug\net9.0\Duplicates.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week09-recap\DSPSb\Duplicates\bin\Debug\net9.0\Duplicates.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week09-recap\DSPSb\Duplicates\obj\Debug\net9.0\Duplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week09-recap\DSPSb\Duplicates\obj\Debug\net9.0\Duplicates.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week09-recap\DSPSb\Duplicates\obj\Debug\net9.0\Duplicates.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week09-recap\DSPSb\Duplicates\obj\Debug\net9.0\Duplicates.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week09-recap\DSPSb\Duplicates\obj\Debug\net9.0\Duplicates.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week09-recap\DSPSb\Duplicates\obj\Debug\net9.0\Duplicates.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week09-recap\DSPSb\Duplicates\obj\Debug\net9.0\refint\Duplicates.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week09-recap\DSPSb\Duplicates\obj\Debug\net9.0\Duplicates.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week09-recap\DSPSb\Duplicates\obj\Debug\net9.0\Duplicates.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week09-recap\DSPSb\Duplicates\obj\Debug\net9.0\ref\Duplicates.dll

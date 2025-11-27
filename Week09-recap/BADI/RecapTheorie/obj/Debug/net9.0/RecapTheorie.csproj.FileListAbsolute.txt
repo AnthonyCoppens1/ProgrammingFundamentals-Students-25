@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\RecapTheorie\bin\Debug\net9.0\RecapTheorie.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\RecapTheorie\bin\Debug\net9.0\RecapTheorie.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\RecapTheorie\bin\Debug\net9.0\RecapTheorie.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\RecapTheorie\bin\Debug\net9.0\RecapTheorie.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\RecapTheorie\bin\Debug\net9.0\RecapTheorie.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\RecapTheorie\obj\Debug\net9.0\RecapTheorie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\RecapTheorie\obj\Debug\net9.0\RecapTheorie.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\RecapTheorie\obj\Debug\net9.0\RecapTheorie.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\RecapTheorie\obj\Debug\net9.0\RecapTheorie.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\RecapTheorie\obj\Debug\net9.0\RecapTheorie.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\RecapTheorie\obj\Debug\net9.0\RecapTheorie.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\RecapTheorie\obj\Debug\net9.0\refint\RecapTheorie.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\RecapTheorie\obj\Debug\net9.0\RecapTheorie.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\RecapTheorie\obj\Debug\net9.0\RecapTheorie.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\recap\RecapTheorie\obj\Debug\net9.0\ref\RecapTheorie.dll
