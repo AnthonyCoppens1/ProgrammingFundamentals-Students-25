@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week10-Methods\BADI\Oefeningen\bin\Debug\net9.0\Oefeningen.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week10-Methods\BADI\Oefeningen\bin\Debug\net9.0\Oefeningen.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week10-Methods\BADI\Oefeningen\bin\Debug\net9.0\Oefeningen.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week10-Methods\BADI\Oefeningen\bin\Debug\net9.0\Oefeningen.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week10-Methods\BADI\Oefeningen\bin\Debug\net9.0\Oefeningen.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week10-Methods\BADI\Oefeningen\obj\Debug\net9.0\Oefeningen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week10-Methods\BADI\Oefeningen\obj\Debug\net9.0\Oefeningen.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week10-Methods\BADI\Oefeningen\obj\Debug\net9.0\Oefeningen.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week10-Methods\BADI\Oefeningen\obj\Debug\net9.0\Oefeningen.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week10-Methods\BADI\Oefeningen\obj\Debug\net9.0\Oefeningen.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week10-Methods\BADI\Oefeningen\obj\Debug\net9.0\Oefeningen.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week10-Methods\BADI\Oefeningen\obj\Debug\net9.0\refint\Oefeningen.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week10-Methods\BADI\Oefeningen\obj\Debug\net9.0\Oefeningen.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week10-Methods\BADI\Oefeningen\obj\Debug\net9.0\Oefeningen.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week10-Methods\BADI\Oefeningen\obj\Debug\net9.0\ref\Oefeningen.dll
