@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-25\\Week09\\DSPSa\\Methods\\Methods.csproj": {}
+    "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-25\\Week10-Methods\\DSPSa\\Methods\\Methods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-25\\Week09\\DSPSa\\Methods\\Methods.csproj": {
+    "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-25\\Week10-Methods\\DSPSa\\Methods\\Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-25\\Week09\\DSPSa\\Methods\\Methods.csproj",
+        "projectUniqueName": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-25\\Week10-Methods\\DSPSa\\Methods\\Methods.csproj",
         "projectName": "Methods",
-        "projectPath": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-25\\Week09\\DSPSa\\Methods\\Methods.csproj",
+        "projectPath": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-25\\Week10-Methods\\DSPSa\\Methods\\Methods.csproj",
         "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-25\\Week09\\DSPSa\\Methods\\obj\\",
+        "outputPath": "C:\\Users\\antho\\OneDrive\\Documenten\\Anthony-TM\\ProgrammingFundamentals\\ProgrammingFundamentals-Students-25\\Week10-Methods\\DSPSa\\Methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\antho\\AppData\\Roaming\\NuGet\\NuGet.Config"

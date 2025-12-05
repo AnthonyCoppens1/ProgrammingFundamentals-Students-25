@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\Huisdieren\bin\Debug\net9.0\Huisdieren.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\Huisdieren\bin\Debug\net9.0\Huisdieren.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\Huisdieren\bin\Debug\net9.0\Huisdieren.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\Huisdieren\bin\Debug\net9.0\Huisdieren.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\Huisdieren\bin\Debug\net9.0\Huisdieren.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\Huisdieren\obj\Debug\net9.0\Huisdieren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\Huisdieren\obj\Debug\net9.0\Huisdieren.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\Huisdieren\obj\Debug\net9.0\Huisdieren.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\Huisdieren\obj\Debug\net9.0\Huisdieren.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\Huisdieren\obj\Debug\net9.0\Huisdieren.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\Huisdieren\obj\Debug\net9.0\Huisdieren.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\Huisdieren\obj\Debug\net9.0\refint\Huisdieren.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\Huisdieren\obj\Debug\net9.0\Huisdieren.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\Huisdieren\obj\Debug\net9.0\Huisdieren.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\Huisdieren\obj\Debug\net9.0\ref\Huisdieren.dll
