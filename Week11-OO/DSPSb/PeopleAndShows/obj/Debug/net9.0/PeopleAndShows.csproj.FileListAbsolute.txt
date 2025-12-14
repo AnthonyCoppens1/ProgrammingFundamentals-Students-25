@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSb\PeopleAndShows\bin\Debug\net9.0\PeopleAndShows.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSb\PeopleAndShows\bin\Debug\net9.0\PeopleAndShows.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSb\PeopleAndShows\bin\Debug\net9.0\PeopleAndShows.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSb\PeopleAndShows\bin\Debug\net9.0\PeopleAndShows.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSb\PeopleAndShows\bin\Debug\net9.0\PeopleAndShows.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSb\PeopleAndShows\obj\Debug\net9.0\PeopleAndShows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSb\PeopleAndShows\obj\Debug\net9.0\PeopleAndShows.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSb\PeopleAndShows\obj\Debug\net9.0\PeopleAndShows.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSb\PeopleAndShows\obj\Debug\net9.0\PeopleAndShows.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSb\PeopleAndShows\obj\Debug\net9.0\PeopleAndShows.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSb\PeopleAndShows\obj\Debug\net9.0\PeopleAndShows.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSb\PeopleAndShows\obj\Debug\net9.0\refint\PeopleAndShows.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSb\PeopleAndShows\obj\Debug\net9.0\PeopleAndShows.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSb\PeopleAndShows\obj\Debug\net9.0\PeopleAndShows.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSb\PeopleAndShows\obj\Debug\net9.0\ref\PeopleAndShows.dll

@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Lessenrooster\bin\Debug\net9.0\Lessenrooster.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Lessenrooster\bin\Debug\net9.0\Lessenrooster.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Lessenrooster\bin\Debug\net9.0\Lessenrooster.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Lessenrooster\bin\Debug\net9.0\Lessenrooster.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Lessenrooster\bin\Debug\net9.0\Lessenrooster.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Lessenrooster\obj\Debug\net9.0\Lessenrooster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Lessenrooster\obj\Debug\net9.0\Lessenrooster.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Lessenrooster\obj\Debug\net9.0\Lessenrooster.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Lessenrooster\obj\Debug\net9.0\Lessenrooster.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Lessenrooster\obj\Debug\net9.0\Lessenrooster.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Lessenrooster\obj\Debug\net9.0\Lessenrooster.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Lessenrooster\obj\Debug\net9.0\refint\Lessenrooster.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Lessenrooster\obj\Debug\net9.0\Lessenrooster.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Lessenrooster\obj\Debug\net9.0\Lessenrooster.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Lessenrooster\obj\Debug\net9.0\ref\Lessenrooster.dll

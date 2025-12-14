@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Ziekenhuis\bin\Debug\net9.0\Ziekenhuis.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Ziekenhuis\bin\Debug\net9.0\Ziekenhuis.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Ziekenhuis\bin\Debug\net9.0\Ziekenhuis.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Ziekenhuis\bin\Debug\net9.0\Ziekenhuis.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Ziekenhuis\bin\Debug\net9.0\Ziekenhuis.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Ziekenhuis\obj\Debug\net9.0\Ziekenhuis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Ziekenhuis\obj\Debug\net9.0\Ziekenhuis.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Ziekenhuis\obj\Debug\net9.0\Ziekenhuis.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Ziekenhuis\obj\Debug\net9.0\Ziekenhuis.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Ziekenhuis\obj\Debug\net9.0\Ziekenhuis.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Ziekenhuis\obj\Debug\net9.0\Ziekenhuis.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Ziekenhuis\obj\Debug\net9.0\refint\Ziekenhuis.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Ziekenhuis\obj\Debug\net9.0\Ziekenhuis.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Ziekenhuis\obj\Debug\net9.0\Ziekenhuis.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Ziekenhuis\obj\Debug\net9.0\ref\Ziekenhuis.dll
