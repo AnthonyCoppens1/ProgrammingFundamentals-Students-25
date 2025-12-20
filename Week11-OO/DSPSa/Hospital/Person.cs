@@ -42,10 +42,24 @@ namespace Hospital
         }
     }
 
+    public enum Spec
+    {
+        Cardiovascular,
+        Cardiologist,
+        Orthopedic,
+        Geriatry,
+        Dermatology,
+        Gynaecology,
+        Pediatry,
+        Neurology
+
+    }
+
+
     public class Doctor: Person
     {
-        public string Specialty { get; set; }
-        public Doctor(string name, DateOnly birthday,char gender, string specialty): base(name, birthday, gender)
+        public Spec Specialty { get; set; }
+        public Doctor(string name, DateOnly birthday,char gender, Spec specialty): base(name, birthday, gender)
         {
             Specialty = specialty;
         }
@@ -56,10 +70,21 @@ namespace Hospital
         }
     }
 
+    public enum Dep
+    {
+        WeirdERSituations,
+        TheEYEDepartement,
+        OldPeople,
+        Babies,
+        ER,
+        DrunkStudents,
+        DrugOverdose
+    }
+
     public class Nurse: Person
     {
-        public string Department { get; set; }
-        public Nurse(string name, DateOnly birthday,char gender, string department): base(name, birthday, gender)
+        public Dep Department { get; set; }
+        public Nurse(string name, DateOnly birthday,char gender, Dep department): base(name, birthday, gender)
         {
             Department = department;
         }
@@ -73,6 +98,7 @@ namespace Hospital
     {
         public string Problem { get; set; }
         public string Solution { get; set; }
+
         public Patient(string name, DateOnly birthday,char gender, string problem, string solution): base(name, birthday, gender)
         {
             Problem = problem;

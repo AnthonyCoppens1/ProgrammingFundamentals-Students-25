@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lessenrooster")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28c06613b9aff6ff339772491c7899edd2591afb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c12862fd6a3cee5c25d5b686ab6a0a824cdcd81")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lessenrooster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lessenrooster")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

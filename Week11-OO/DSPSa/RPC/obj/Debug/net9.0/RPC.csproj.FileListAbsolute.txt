@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSa\RPC\bin\Debug\net9.0\RPC.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSa\RPC\bin\Debug\net9.0\RPC.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSa\RPC\bin\Debug\net9.0\RPC.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSa\RPC\bin\Debug\net9.0\RPC.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSa\RPC\bin\Debug\net9.0\RPC.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSa\RPC\obj\Debug\net9.0\RPC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSa\RPC\obj\Debug\net9.0\RPC.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSa\RPC\obj\Debug\net9.0\RPC.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSa\RPC\obj\Debug\net9.0\RPC.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSa\RPC\obj\Debug\net9.0\RPC.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSa\RPC\obj\Debug\net9.0\RPC.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSa\RPC\obj\Debug\net9.0\refint\RPC.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSa\RPC\obj\Debug\net9.0\RPC.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSa\RPC\obj\Debug\net9.0\RPC.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\DSPSa\RPC\obj\Debug\net9.0\ref\RPC.dll

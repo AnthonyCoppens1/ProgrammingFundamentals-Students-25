@@ -1,0 +1,15 @@
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Oefening\bin\Debug\net9.0\Oefening.exe
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Oefening\bin\Debug\net9.0\Oefening.deps.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Oefening\bin\Debug\net9.0\Oefening.runtimeconfig.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Oefening\bin\Debug\net9.0\Oefening.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Oefening\bin\Debug\net9.0\Oefening.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Oefening\obj\Debug\net9.0\Oefening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Oefening\obj\Debug\net9.0\Oefening.AssemblyInfoInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Oefening\obj\Debug\net9.0\Oefening.AssemblyInfo.cs
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Oefening\obj\Debug\net9.0\Oefening.csproj.CoreCompileInputs.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Oefening\obj\Debug\net9.0\Oefening.sourcelink.json
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Oefening\obj\Debug\net9.0\Oefening.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Oefening\obj\Debug\net9.0\refint\Oefening.dll
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Oefening\obj\Debug\net9.0\Oefening.pdb
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Oefening\obj\Debug\net9.0\Oefening.genruntimeconfig.cache
+C:\Users\antho\OneDrive\Documenten\Anthony-TM\ProgrammingFundamentals\ProgrammingFundamentals-Students-25\Week11-OO\BADI\Oefening\obj\Debug\net9.0\ref\Oefening.dll
